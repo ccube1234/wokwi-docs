@@ -1,6 +1,7 @@
 ---
 title: wokwi-lcd2004 Reference
 sidebar_label: wokwi-lcd2004
+ㄷ채ㅜ엎ㄷ자ㅓㅑ둬ㅑㅓㅝㅁㄱㄴ야ㅜㅑ어먀우멒얖머ㅐㅜㅑㅁ얌ㅇ퍼ㅜㅑㅓㅍㅇㅁㅇㅁㅍㅇㅍㅁㅇㅍㅁㅇㅍㅇㅍㅇㅍㅁㅇㅁㅍㅇㅁㅍ
 ---
 
 An LCD display with 4 lines, 20 characters per line.
